@@ -41,7 +41,8 @@ filetype plugin indent on
  " Enable syntax highlighting
  " 色づけをオン
  syntax on
- 
+ "カラースキームを設定する
+ colorscheme pablo 
  
  "------------------------------------------------------------
  " Must have options {{{1
